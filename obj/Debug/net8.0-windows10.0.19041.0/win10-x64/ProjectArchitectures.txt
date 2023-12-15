@@ -1,0 +1,1 @@
+C:\Users\alexn\source\repos\UdemyMauiCourse\BMICauculatorApp\BMICauculatorApp\BMICauculatorApp.csproj;x64
